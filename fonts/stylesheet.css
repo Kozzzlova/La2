@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Philosopher';
+    src: url('Philosopher-Bold.eot');
+    src: url('Philosopher-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Philosopher-Bold.woff2') format('woff2'),
+        url('Philosopher-Bold.woff') format('woff'),
+        url('Philosopher-Bold.ttf') format('truetype'),
+        url('Philosopher-Bold.svg#Philosopher-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
